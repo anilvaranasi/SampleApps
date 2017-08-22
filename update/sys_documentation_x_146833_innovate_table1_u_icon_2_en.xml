@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-07-26 21:58:50</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>57428e040f10030067a7cd8ce1050e46</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>New Icon</sys_name>

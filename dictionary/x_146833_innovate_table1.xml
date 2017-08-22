@@ -2,6 +2,7 @@
 <database>
     <element label="table1" max_length="40" name="x_146833_innovate_table1" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Stage" max_length="80" name="stage" type="workflow"/>
         <element label="New Audio" max_length="40" name="u_audio_1" type="audio"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_8" type="string">
             <choice>

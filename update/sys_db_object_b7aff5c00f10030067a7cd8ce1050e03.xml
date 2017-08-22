@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-26 21:50:19</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b7aff5c00f10030067a7cd8ce1050e03</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>table1</sys_name>
